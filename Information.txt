@@ -1,0 +1,6 @@
+The following instructions need to be followed by the user:
+
+1. Add Transactions Accurately: Enter all your income and expenses with correct amounts and categories to ensure your financial data stays accurate.
+2. Update Regularly: Log transactions daily or weekly so your tracker reflects your current financial status.
+3. Review Reports: Check summaries, charts, and expense reports regularly to understand your spending patterns.
+4. Set Budgets: Define monthly budgets for different categories and track your spending to stay within limits.
